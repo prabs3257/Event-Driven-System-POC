@@ -1,5 +1,5 @@
 package com.prabs.account.common.dto;
 
 public enum AccountType {
-    SAVINGS, CURRENT
+    TYPE1, TYPE2
 }
